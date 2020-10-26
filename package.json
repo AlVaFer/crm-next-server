@@ -1,13 +1,13 @@
 {
-  "name": "crmgraphqlcurso",
+  "name": "crmgraphql",
   "version": "1.0.0",
-  "description": "Curso de GraphQL",
+  "description": "GraphQL",
   "main": "index.js",
   "scripts": {
     "start": "node .",
     "dev": "nodemon ."
   },
-  "author": "Juan De la torre",
+  "author": "AV",
   "license": "ISC",
   "dependencies": {
     "apollo-server": "^2.11.0",
